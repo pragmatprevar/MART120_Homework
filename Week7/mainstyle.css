@@ -1,0 +1,28 @@
+body {
+  text-align:center;
+  width:60%;
+  margin:auto;
+  background-image:url('images/tile.gif');
+}
+.header {
+  padding:10px;
+  width:75%;
+  margin:auto;
+  background-color:white;
+}
+.bigblock {
+  background-color: white;
+  padding:20px;
+}
+#inlineImage {
+  margin:auto;
+  display:block;
+}
+#endText {
+  font-weight: bold;
+  font-style: italic;
+}
+.bigblock p {color:black}
+h1 {color: lightblue}
+p {color: white}
+hr {color: lawngreen}
